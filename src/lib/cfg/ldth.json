@@ -1,0 +1,15 @@
+{
+    "root":"/",
+    "train":
+    {
+        "mot20":"./data/ldth.train"
+    },
+    "test_emb":
+    {
+        "mot20":"./data/ldth.train"
+    },
+    "test":
+    {
+        "mot20":"./data/ldth.valid"
+    }
+}
